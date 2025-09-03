@@ -14,10 +14,8 @@ O projeto é uma réplica do Instagram:
 
 ##  Tecnologias Utilizadas
 
-- **HTML5** - Estrutura semântica
-- **TailwindCSS** - Estilização e responsividade
-- **CSS Grid** - Layout principal
-- **Flexbox** - Alinhamento de componentes
+- <img align="center" alt="Arthur-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />  **HTML** 
+- <img align="center" alt="Arthur-Tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /> **TailwindCSS** 
 
 ## Funcionalidades
 
